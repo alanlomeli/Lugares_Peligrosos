@@ -16,12 +16,6 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    //hola niño creo que si jala
-    //prueba
-    //prueba 1
-    //prueba 2
-    //prueba 3
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
